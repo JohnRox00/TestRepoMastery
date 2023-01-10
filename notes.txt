@@ -4,3 +4,4 @@ test3
 test4
 test-reset
 test-reset 2
+add test-add-new-feature-mb1
